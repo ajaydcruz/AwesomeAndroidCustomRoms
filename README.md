@@ -1,6 +1,6 @@
 # AwesomeAndroidCustomRoms
 
-A listing of compatible devices for running officially supported versions of android. 
+A listing of compatible devices for running official variants of custom ROMs running latest versions of android. 
 
 https://github.com/ajaydcruz/AwesomeAndroidCustomRoms/blob/main/index.html
 
