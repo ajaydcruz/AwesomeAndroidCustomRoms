@@ -1,4 +1,5 @@
-# AwesomeAndroidCustomRoms
+# AwesomeAndroidCustomRoms  
+See the list on https://ajay.dcruz.in/
 
 A crowd sourced listing of compatible devices for running official variants of custom ROMs running latest versions of android. If your device or distribution is  supported but not listed please contribute by way of an edit.
 
